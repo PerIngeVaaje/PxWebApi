@@ -23,4 +23,4 @@ If you don't want to manually run `dotnet format` or Code Cleanup in Visual Stud
 
 The rules for formatting are set in the [.editorconfig](.editorconfig) file. Visual Studio supports this automatically, and for VS Code we have the [EditorConfig extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig). More information on [EditorConfig](https://editorconfig.org/)
 
-test release-please 2
+test release-please 3
